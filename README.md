@@ -1,4 +1,6 @@
-
+# bat_switch_ip_win
+Winにて、IPアドレス設定を切り替えるバッチファイル。  
+固定IP ←→ DHCP
 
 ## ネットワークインタフェース名を確認するコマンド  
 netsh interface ip show config
