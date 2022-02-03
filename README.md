@@ -1,1 +1,3 @@
-# bat_switch_ip_win
+ネットワークインタフェース名を確認するコマンド
+netsh interface ip show config
+
